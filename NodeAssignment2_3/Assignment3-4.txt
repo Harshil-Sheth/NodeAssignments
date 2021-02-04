@@ -1,0 +1,18 @@
+// Assignment-3 :
+// 1. Create API to add car record
+//   - Parameter => Car Name, Model Name, Model Name
+//  - Validate following things:
+//   a. Car Name => Is it already added or not? if exist then response "Car Already exist".
+//   b. Make Name => If make name is already exist => Take make Id and store to Car table. 
+//    If it is new then get new Id and store in Car table.
+//   c. Model Name => If model name is already exist => Take model Id and store to Car table. 
+//    If it is new then get new Id and store in Car table.
+
+// 2. Update car details API
+//  - Parameter => Id, Car Name, Model Name, Model Name
+//  - Validate following things:
+//   a. Car Name => Is it already added or not? if exist then response "Car Already exist".
+//   b. Make Name => If make name is already exist => Take make Id and store to Car table. 
+//    If it is new then get new Id and store in Car table.
+//   c. Model Name => If model name is already exist => Take model Id and store to Car table. 
+//    If it is new then get new Id and store in Car table.
